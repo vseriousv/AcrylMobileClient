@@ -7,7 +7,7 @@
     <feature name="BarcodeScanner">
         <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
     </feature>
-    <name>ACRYL</name>
+    <name>ACRYL Testnet</name>
     <description>
         Acryl client.
     </description>
